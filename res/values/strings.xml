@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Good Morning</string>
+    <string name="greetings">Hollo Pleopels</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="changifier">Changifier</string>
+	
+    
+</resources>
