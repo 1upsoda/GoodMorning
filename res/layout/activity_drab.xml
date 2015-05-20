@@ -21,19 +21,11 @@
         android:text="Changifier" />
 
     <RatingBar
-        android:id="@+id/sterz"
-        android:layout_width="238dp"
+        android:id="@+id/ratingBar1"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:rating="2" />
-
-    <DatePicker
-        android:id="@+id/datePicker1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@+id/boringText"
-        android:layout_toLeftOf="@+id/colorChanger" />
 
 </RelativeLayout>
